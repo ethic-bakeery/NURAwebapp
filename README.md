@@ -153,12 +153,9 @@ The NURA platform is designed to be:
 - Focused (only members aligned with the organization’s mission).
 - Uses permissions and access controls to limit users activity base on their positions within the community
 - Make it flexible where by users can submit a request for a special permission
-- Users are  categorized into Normal user, Member and 
+- Users are  categorized into Normal user, Member and admin
 - Normal user has only read permission where admin and member can read, write and delete.
 **Please have a look at the below flowchart to understand how the software works**
-
-It is the backbone of a movement — built by youth, for youth, to unite and advocate for a better Nigeria.
-
 ---
 
 
