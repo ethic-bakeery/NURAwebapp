@@ -135,6 +135,16 @@ Explore the geographical structure of the organization across different Nigerian
 
 ---
 
+**NURA Nationawide Structure**  
+![./FireShot/state.png](./FireShot/structure.png)
+
+---
+
+**NURA Roadmap**  
+![./FireShot/state.png](./FireShot/roadmap.png)
+
+---
+
 ### 🔐 Secure, Verified, Purpose-Driven
 
 The NURA platform is designed to be:
